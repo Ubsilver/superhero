@@ -1,0 +1,24 @@
+.pp{
+    color: #000;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 22px auto 0 auto;
+}
+.bgr{
+    width: 234px;
+    height: 246px;
+    flex-shrink: 0;
+    background: #73D677;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+.bgr div{
+    display: flex;
+    flex-direction: column;
+    width: 156px;
+    margin-top: 35px;
+}

@@ -1,0 +1,29 @@
+.h1 {
+    color: #17171B;
+font-family: "SF Pro Display";
+font-size: 60px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 120px;
+}
+.link{
+    color: var(--Pharagraph, #212121);
+font-family: Karla;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin: 0 40px 0 0 ;
+}
+.link:hover{
+    color: #a10000;
+}
+.link-menu{
+    margin: 55px 0 0 0;
+}
